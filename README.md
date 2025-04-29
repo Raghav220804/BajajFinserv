@@ -2,7 +2,7 @@
 
 This FastAPI service accepts PNG lab report images and extracts:
 
-Test names
+"Test names",
 Test values
 Reference ranges
 Whether the value is out of range
