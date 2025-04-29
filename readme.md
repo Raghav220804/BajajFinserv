@@ -12,5 +12,5 @@ This FastAPI service accepts PNG lab report images and extracts:
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 uvicorn main:app --reload
-http://127.0.0.1:8000/docs
+http://127.0.0.1:8000/docs #for fastapi 
 
